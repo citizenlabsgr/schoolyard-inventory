@@ -1,5 +1,5 @@
 # template-repo
-Clone or download this repo with commonly labels and milestones used by Citizen Labs.
+Clone or download this repo with commonly labels and milestones used by Citizen Labs. An easy and consistent format.
 
 ## Name Of This Project:
 
