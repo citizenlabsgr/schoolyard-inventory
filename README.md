@@ -3,6 +3,9 @@
 =======
 # template-repo
 Clone or download this repo with commonly labels and milestones used by Citizen Labs.
+<<<<<<< HEAD
+>>>>>>> parent of e30e21a... improve description
+=======
 >>>>>>> parent of e30e21a... improve description
 
 **Slack:** #project-datacensus
