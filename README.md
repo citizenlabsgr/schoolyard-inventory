@@ -1,18 +1,15 @@
-# template-repo
-Clone or download this repo with labels and milestones commonly used by Citizen Labs. Intended to provide an easy and consistent format that will encourage contributions from others.
+# Schoolyard Inventory
 
 ## Name Of This Project:
 
-**Slack:** #our-channel
+**Slack:** #schoolyard
 
 **Project Description:**
 
 **Project Guide:**  
 
 **Maintainers (people with write access):**
-* Person 1
-* Person 2
-* Person 3
+* n/a
 
 **Data:** [http://data.grcity.us/[project-name]](http://data.grcity.us/)   
 _Note: Create dataset for project and link it here._
