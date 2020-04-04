@@ -5,7 +5,7 @@
 **Project Description:**
 A project with the Grand Rapids Public Schools to build tools to assist in a green space inventory of GRPS properties. Project will also assist teachers in utilizing established green spaces (ie parks) and GRPS properties.
 
-- [Draft Proposal](https://github.com/citizenlabsgr/schoolyard-inventory/blob/master/proposal.md)
+- [Project Proposal](https://docs.google.com/document/d/1ctc8xhCTmfkHLo0WJW6YxhloV6xwzBV3Bxcl5xySNtk/edit?usp=sharing)
 
 **Project Guide:**  
 * n/a
