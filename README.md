@@ -1,6 +1,6 @@
 # Schoolyard Inventory
 
-**Slack:** #schoolyard
+**Slack:** #proj-schoolyard
 
 **Project Description:**
 A project with the Grand Rapids Public Schools to build tools to assist in a green space inventory of GRPS properties. Project will also assist teachers in utilizing established green spaces (ie parks) and GRPS properties.
